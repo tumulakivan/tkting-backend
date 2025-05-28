@@ -16,6 +16,7 @@ public class CorsConfig {
 
         // Allow requests from your frontend origin
         config.addAllowedOrigin("http://localhost:5173");
+        config.addAllowedOrigin("https://tkting.vercel.app");
 
         // Allow common HTTP methods
         config.addAllowedMethod("GET");

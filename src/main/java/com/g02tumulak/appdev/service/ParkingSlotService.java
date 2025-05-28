@@ -12,7 +12,6 @@ import com.g02tumulak.appdev.dto.ParkingSlotDTO;
 import com.g02tumulak.appdev.entity.ParkingAreaEntity;
 import com.g02tumulak.appdev.entity.ParkingSlotEntity;
 import com.g02tumulak.appdev.entity.UserEntity;
-import com.g02tumulak.appdev.entity.ParkingStickerEntity;
 import com.g02tumulak.appdev.exception.NameErrorResponse;
 import com.g02tumulak.appdev.exception.NameNotFoundException;
 import com.g02tumulak.appdev.repository.ParkingAreaRepository;

@@ -11,3 +11,5 @@ public class AppdevApplication {
 	}
 
 }
+
+// postgresql://postgres:Nihon.0801@db.axatdfeuwdwxtlchcmib.supabase.co:5432/postgres
